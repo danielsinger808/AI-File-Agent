@@ -1,0 +1,59 @@
+{"ts": "2025-12-26 21:03:51", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\notes.txt"}
+{"ts": "2025-12-26 21:03:51", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\School\\notes.txt"}
+{"ts": "2025-12-26 21:03:51", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\School\\notes.txt"}
+{"ts": "2025-12-26 21:19:09", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\notes.txt"}
+{"ts": "2025-12-26 21:19:22", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\notes.txt"}
+{"ts": "2025-12-26 21:19:22", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\notes.txt"}
+{"ts": "2025-12-26 21:19:22", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\notes1.txt"}
+{"ts": "2025-12-26 21:19:31", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Work\\notes1.txt"}
+{"ts": "2025-12-26 21:19:31", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\notes1.txt"}
+{"ts": "2025-12-26 21:19:31", "event": "deleted", "path": "C:\\Users\\danie\\Documents\\filetest\\notes.txt"}
+{"ts": "2025-12-26 21:19:31", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\notes.txt"}
+{"ts": "2025-12-26 21:19:31", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\notes2.txt"}
+{"ts": "2025-12-26 21:19:39", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\notes2.txt"}
+{"ts": "2025-12-26 21:19:39", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\notes2.txt"}
+{"ts": "2025-12-26 21:19:39", "event": "deleted", "path": "C:\\Users\\danie\\Documents\\filetest\\notes1.txt"}
+{"ts": "2025-12-26 21:19:39", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\Work\\notes1.txt"}
+{"ts": "2025-12-26 21:19:39", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\notes2.txt"}
+{"ts": "2025-12-26 21:23:26", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\note3.txt"}
+{"ts": "2025-12-26 21:23:33", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Work\\note3.txt"}
+{"ts": "2025-12-26 21:23:33", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\note3.txt"}
+{"ts": "2025-12-26 21:23:33", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\Work\\note3.txt"}
+{"ts": "2026-01-16 09:39:34", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\notes1.txt"}
+{"ts": "2026-01-16 09:39:56", "event": "action_error", "path": "C:\\Users\\danie\\Documents\\filetest\\notes1.txt"}
+{"ts": "2026-01-16 09:39:56", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\notes1.txt"}
+{"ts": "2026-01-16 09:39:56", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\test.txt"}
+{"ts": "2026-01-16 09:39:56", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\test.txt"}
+{"ts": "2026-01-16 09:39:56", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\test.txt"}
+{"ts": "2026-01-16 09:59:05", "event": "deleted", "path": "C:\\Users\\danie\\Documents\\filetest\\notes1.txt"}
+{"ts": "2026-01-16 09:59:21", "event": "deleted", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\notes.txt"}
+{"ts": "2026-01-16 09:59:21", "event": "deleted", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\notes2.txt"}
+{"ts": "2026-01-16 09:59:21", "event": "deleted", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\test.txt"}
+{"ts": "2026-01-16 09:59:31", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\test.txt"}
+{"ts": "2026-01-16 09:59:31", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\test.txt"}
+{"ts": "2026-01-16 09:59:31", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\test.txt"}
+{"ts": "2026-01-16 09:59:37", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\notes1.txt"}
+{"ts": "2026-01-16 09:59:40", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Work\\notes1.txt"}
+{"ts": "2026-01-16 09:59:40", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\notes1.txt"}
+{"ts": "2026-01-16 09:59:40", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\Work\\notes1.txt"}
+{"ts": "2026-01-16 10:00:17", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\restt.txt"}
+{"ts": "2026-01-16 10:00:19", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\School\\restt.txt"}
+{"ts": "2026-01-16 10:00:19", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\restt.txt"}
+{"ts": "2026-01-16 10:00:19", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\School\\restt.txt"}
+{"ts": "2026-01-16 10:08:11", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\best @sum.txt"}
+{"ts": "2026-01-16 10:08:14", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\School\\best @sum.txt"}
+{"ts": "2026-01-16 10:08:17", "event": "ai_summary_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\School\\best @sum.txt", "summary": "- Text contains only the phrase \"notes for school.\"\n- No additional information or context provided.\n- Insufficient content to summarize further.\n\nTags:\n- notes\n- school\n- incomplete"}
+{"ts": "2026-01-16 10:08:17", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\best @sum.txt"}
+{"ts": "2026-01-16 10:08:17", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\School\\best @sum.txt"}
+{"ts": "2026-01-16 10:09:13", "event": "deleted", "path": "C:\\Users\\danie\\Documents\\filetest\\School\\best @sum.txt"}
+{"ts": "2026-01-16 10:09:30", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\best @sum.txt"}
+{"ts": "2026-01-16 10:09:31", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\best @sum.txt"}
+{"ts": "2026-01-16 10:09:33", "event": "ai_summary_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\best @sum.txt", "summary": "- Anakin and Obi Wan confront each other over Anakin\u2019s fall to the dark side and his new empire.\n- Obi Wan warns Anakin about the dark lord\u2019s influence and the true evil of Chancellor Palpatine.\n- Their duel ends with Obi Wan defeating Anakin, lamenting his fallen brother and the lost hope for balance.\n\nTags:  \nStar Wars, betrayal, duel"}
+{"ts": "2026-01-16 10:09:33", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\best @sum.txt"}
+{"ts": "2026-01-16 10:09:33", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\best @sum.txt"}
+{"ts": "2026-01-16 10:20:30", "event": "deleted", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\best @sum.txt"}
+{"ts": "2026-01-16 10:20:36", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\best @sum.txt"}
+{"ts": "2026-01-16 10:20:40", "event": "ai_routed_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\best @sum.txt"}
+{"ts": "2026-01-16 10:20:44", "event": "ai_summary_txt", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\best @sum.txt", "summary": "- Anakin and Obi Wan confront each other over Anakin's fall to the dark side, with Anakin defending his new empire and rejecting the Jedi.\n- Their intense battle ends with Obi Wan gaining the upper hand, severely injuring Anakin and expressing his heartbreak over Anakin's betrayal.\n- Obi Wan mourns Anakin's loss as the \"Chosen One\" who was meant to bring balance, while Anakin suffers in flames, consumed by his anger and pain.\n\nTags:  \nStar Wars, Betrayal, Duel"}
+{"ts": "2026-01-16 10:20:44", "event": "modified", "path": "C:\\Users\\danie\\Documents\\filetest\\best @sum.txt"}
+{"ts": "2026-01-16 10:20:44", "event": "created", "path": "C:\\Users\\danie\\Documents\\filetest\\Other\\best @sum.txt"}
